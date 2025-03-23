@@ -3,5 +3,5 @@ This repository contains SQL files and Python files to make queries or download 
 1. Measurements from wearable devices on Bone Marrow Transplant patients and their caregivers.
 2. Measurements from wearable devices on Student Wellness Group.
 
-All the queries were made on deidentified data. 
+All the queries were made on deidentified data. This is mainly a collection of SQL queries along with python and SQL. 
    
